@@ -1,0 +1,17 @@
+export default {
+    "theme-color-tab": "#f7f7f7",
+    "theme-color": "#00cbcc",
+    "font-color-light": "#7f7f8e",
+    "font-color-desc": "#2E3030",
+    "font-color-default": "#8a8a8a",
+    "font-color-buy": "#fff",
+    "font-color": "#d44439",
+    "font-size-b": "24px",
+    "font-size-m": "14px",
+    "font-size-s": "12px",
+    "font-weight-b": 700,
+    "active-color": "#2c2c2c",
+    "default-color": "#f5f5f9",
+    "shop-theme-color": "#ffffff",
+    "background-color": "#ffffff",
+  }

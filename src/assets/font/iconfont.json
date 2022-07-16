@@ -1,0 +1,16 @@
+{
+  "id": "3499576",
+  "name": "point ",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30175727",
+      "name": "Chevron-Right",
+      "font_class": "Chevron-Right",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
